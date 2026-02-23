@@ -1,5 +1,15 @@
+## Hi, I’m Fiyin 👋
+
 # 💫 About Me:
+BSc Computer Science student at Liverpool John Moores University.  
+I build practical web projects using **React**, **JavaScript**, and backend tools like **PHP/SQL**, with an interest in secure software development.
+
 Computer Science student building practical web projects with React, JavaScript, and PHP.
+
+- 🛠️ Working on: React portfolio projects + secure web app coursework
+- 🌱 Learning: React hooks, API handling, backend fundamentals
+- 🤝 Open to: beginner-friendly collaborations and small full-stack projects
+- 💬 Ask me about: React UI, Frontend Mentor projects, APIs
 
 
 ## 🌐 Socials:
